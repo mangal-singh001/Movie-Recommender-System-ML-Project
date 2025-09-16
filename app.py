@@ -11,7 +11,7 @@ from streamlit.elements.lib.column_types import AreaChartColumnConfig
 
 
 def fetch_poster(movie_id):
-    api_key = '2c528f949e4028c76285a0be8d20c0c7'
+    api_key = 'api key'
     url = f'https://api.themoviedb.org/3/movie/{movie_id}?api_key={api_key}&language=en-US'
 
     retries = 5  # increase retries
@@ -96,4 +96,5 @@ if st.button('Recommend'):
     with col5:
         st.text(names[4])
         st.image(posters[4])
+
 
