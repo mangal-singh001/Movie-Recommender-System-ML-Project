@@ -1,7 +1,7 @@
 # 🎬 Movie Recommender System (ML Project)
 
 A machine learning based **Movie Recommender System** that suggests movies similar to the one selected by the user.
-This project demonstrates the complete ML pipeline — from **data cleaning** and **preprocessing**, to building a **content-based recommendation model**, and finally **deploying it as a web app** using **Streamlit** and **ngrok**.
+This project demonstrates the full ML workflow — from **data cleaning** and **preprocessing**, to building a **content-based recommendation model**, and finally **deploying it as a web app** using **Streamlit** and **ngrok**.
 
 ---
 
@@ -27,7 +27,7 @@ This project demonstrates the complete ML pipeline — from **data cleaning** an
 ├── setup.sh / Procfile / runtime.txt  # For deployment (Heroku/ngrok setup)
 ├── ngrok_connect.py                 # Script to connect local server via ngrok
 ├── Data.zip                         # Dataset (compressed)
-└── Example.png / Example (2).png    # Screenshots of UI & recommendations
+└── Example.png / Example (2).png    # Screenshots of recommendations
 ```
 
 ---
@@ -91,7 +91,6 @@ This project demonstrates the complete ML pipeline — from **data cleaning** an
 
 ---
 
-
 ## 🎥 Screenshots
 
 Here are some snapshots of the **Streamlit web app** showing movie recommendations:
@@ -102,20 +101,25 @@ Here are some snapshots of the **Streamlit web app** showing movie recommendatio
 
 ---
 
+## 📌 More About This Project
 
-
-## 📌 Future Improvements
-
-* Add **collaborative filtering** or **hybrid** models
-* Improve UI with movie posters & search autocomplete
-* Deploy permanently on **Heroku / Render / AWS**
-* Handle larger datasets more efficiently
+* This project highlights **end-to-end ML skills** — from raw data to deployment.
+* It focuses on **content-based recommendations**, but can be extended to **collaborative filtering** or **hybrid systems**.
+* Aimed at showcasing practical application of ML in **real-world scenarios** (personalized recommendations).
+* Built with tools and workflows commonly used in industry (Jupyter, PyCharm, pickle, Streamlit, ngrok).
 
 ---
 
-## 📝 License
+## 🔗 Connect With Me
 
-This project is for **educational purposes** only.
-You may use and modify it freely.
+* 🌐 GitHub: [mangal-singh001](https://github.com/mangal-singh001)
+* 💼 LinkedIn: [Mangal Singh](https://www.linkedin.com/in/mangal-singh001/)
+
+---
+
+## ⭐ Final Note
+
+If you found this project interesting, feel free to ⭐ star the repository and connect with me on LinkedIn.
+I’d love to hear your feedback and suggestions! 🚀
 
 ---
