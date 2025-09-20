@@ -91,13 +91,18 @@ This project demonstrates the complete ML pipeline — from **data cleaning** an
 
 ---
 
+
 ## 🎥 Screenshots
 
-| Input Page         | Recommendation Results                  |
-| ------------------ | --------------------------------------- |
-| ![UI](Example.png) | ![Recommendations](Example%20\(2\).png) |
+Here are some snapshots of the **Streamlit web app** showing movie recommendations:
+
+| Recommendation Result           | Another Example                         |
+| ------------------------------- | --------------------------------------- |
+| ![Recommendations](Example.png) | ![Recommendations](Example%20\(2\).png) |
 
 ---
+
+
 
 ## 📌 Future Improvements
 
